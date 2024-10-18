@@ -1,4 +1,4 @@
-# Project-1-Air-Quality-Index
+# Project-1-Sales_Insights
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/fc902282-5852-43c8-a2a8-695c4be5d4f0/ReportSection?experience=power-bi
 ## Problem Statement
